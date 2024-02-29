@@ -2,6 +2,8 @@
 
 A simple and tiny fetch.
 
+![image](mwfetch.png)
+
 # dependencies
 
 - C compiler and the standard library
@@ -10,7 +12,7 @@ A simple and tiny fetch.
 
 # installing
 
-`./build.sh` for Clang, `gcc main.c -o mwfetch` for GCC.
+`./build.sh` for Clang or `gcc main.c -o mwfetch` for GCC.
 
 # configuration
 
